@@ -1,6 +1,6 @@
 # FDVRental
 
-Bike Renatal .
+Bike Rental .
 
 Class diagramm documentation https://docs.google.com/document/d/1tgPj602dmXmawM8aXZOr0DgdBV-oHmspa_4IiTDiHjQ/edit
 
