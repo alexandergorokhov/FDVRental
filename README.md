@@ -14,6 +14,7 @@ Java 1.8
 To simulate this domain in efficient and extensible way, the use inheritance was enough.
 There are Rental and Discount abstract clases and all the extensions let to define particular behavior from them.
 Person class is just for simulation purposes.
+TDD was applied to ensure test coverage and to optimize application development time. 
 
 ### Installing
 
